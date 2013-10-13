@@ -33,9 +33,6 @@ var falsiesPure = function(arr){
 		if(arr[i]){
 			newArr.push(arr[i]);
 		}
-		else{
-			false;
-		}
 	}
 	return newArr;
 }
