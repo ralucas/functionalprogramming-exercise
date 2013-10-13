@@ -1,6 +1,6 @@
 //Pluralize refactor
 var pluralize = function (word, number){
-  return number === 1 ? word : word + "s");	
+  return number === 1 ? word : word + "s";	
 };
 
 //Victim refactor
